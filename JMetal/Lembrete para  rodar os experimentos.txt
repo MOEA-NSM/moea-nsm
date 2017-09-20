@@ -1,0 +1,5 @@
+
+**Lembrete para execucao dos testes**
+-Copiar o jar do projeto e colar na maquina de execucao
+-Copiar o jar do dist para raiz do projeto para que ele possa encontrar as instancias
+-Desabilitar o antivirus para o envio do email caso configure para isso 
