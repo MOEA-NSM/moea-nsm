@@ -1,7 +1,4 @@
-Este projeto teve como base o JMetal.
-
-Seu conteúdo original e atualizado pode ser encontrado no seguinte link: https://github.com/jMetal/jMetal.
-
-As classes responsáveis pelo funcionamento do MOEA/NSM estão nos pacotes 
-
-/moea-nsm/JMetal/JMETALHOME/jmetal/metaheuristics/abordagem/
+This project was based on JMetal.
+Your original and updated content can be found at the following link https://github.com/jMetal/jMetal.
+The classes responsible for running the MOEA/NSM are in the packages:
+/moea-nsm/JMetal/JMETALHOME/jmetal/metaheuristics/moeansm/
