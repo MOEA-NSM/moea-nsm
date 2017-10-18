@@ -25,7 +25,7 @@ import jmetal.experiments.Experiment;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
-import jmetal.metaheuristics.abordagem.util.UtilAP;
+import jmetal.metaheuristics.moeansm.util.UtilAP;
 
 /**
  * Class for generating results in form of boxplots

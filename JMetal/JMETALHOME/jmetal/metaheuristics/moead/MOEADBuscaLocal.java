@@ -29,8 +29,8 @@ import java.io.FileInputStream;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 import java.util.Vector;
-import jmetal.metaheuristics.abordagem.util.TempoExecucao;
-import jmetal.metaheuristics.abordagem.util.UtilAP;
+import jmetal.metaheuristics.moeansm.util.TempoExecucao;
+import jmetal.metaheuristics.moeansm.util.UtilAP;
 import jmetal.qualityIndicator.QualityIndicator;
 
 public class MOEADBuscaLocal extends Algorithm {

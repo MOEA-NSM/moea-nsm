@@ -38,8 +38,8 @@ import java.io.*;
 import java.util.*;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import jmetal.metaheuristics.abordagem.util.TempoExecucao;
-import jmetal.metaheuristics.abordagem.util.UtilAP;
+import jmetal.metaheuristics.moeansm.util.TempoExecucao;
+import jmetal.metaheuristics.moeansm.util.UtilAP;
 import jmetal.qualityIndicator.R2;
 
 /**

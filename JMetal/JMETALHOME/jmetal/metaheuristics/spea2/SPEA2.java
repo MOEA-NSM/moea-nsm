@@ -21,7 +21,7 @@
 package jmetal.metaheuristics.spea2;
 
 import jmetal.core.*;
-import jmetal.metaheuristics.abordagem.util.TempoExecucao;
+import jmetal.metaheuristics.moeansm.util.TempoExecucao;
 import jmetal.qualityIndicator.QualityIndicator;
 import jmetal.util.JMException;
 import jmetal.util.Ranking;

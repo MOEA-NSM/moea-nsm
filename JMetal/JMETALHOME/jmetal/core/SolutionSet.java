@@ -24,7 +24,7 @@ import jmetal.util.Configuration;
 
 import java.io.*;
 import java.util.*;
-import jmetal.metaheuristics.abordagem.util.UtilAP;
+import jmetal.metaheuristics.moeansm.util.UtilAP;
 
 /**
  * Class representing a SolutionSet (a set of solutions)

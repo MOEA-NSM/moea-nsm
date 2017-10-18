@@ -21,8 +21,8 @@
 package jmetal.metaheuristics.nsgaII;
 
 import jmetal.core.*;
-import jmetal.metaheuristics.abordagem.util.TempoExecucao;
-import jmetal.metaheuristics.abordagem.util.UtilAP;
+import jmetal.metaheuristics.moeansm.util.TempoExecucao;
+import jmetal.metaheuristics.moeansm.util.UtilAP;
 import jmetal.qualityIndicator.QualityIndicator;
 import jmetal.util.Distance;
 import jmetal.util.JMException;

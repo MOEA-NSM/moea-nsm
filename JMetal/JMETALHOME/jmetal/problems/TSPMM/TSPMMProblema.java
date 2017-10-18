@@ -6,7 +6,7 @@ import jmetal.encodings.solutionType.PermutationSolutionType;
 import jmetal.encodings.variable.Permutation;
 
 import java.io.*;
-import jmetal.metaheuristics.abordagem.util.UtilAP;
+import jmetal.metaheuristics.moeansm.util.UtilAP;
 
 /**
  * Class representing a multi-objective TSP (Traveling Salesman Problem)

@@ -29,7 +29,7 @@ import java.io.FileInputStream;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 import java.util.Vector;
-import jmetal.metaheuristics.abordagem.util.TempoExecucao;
+import jmetal.metaheuristics.moeansm.util.TempoExecucao;
 import jmetal.qualityIndicator.QualityIndicator;
 
 public class MOEAD extends Algorithm {
